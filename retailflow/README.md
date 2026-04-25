@@ -1,5 +1,4 @@
 # RetailFlow ERP — Portfolio Demo
-
 A fully interactive front-end prototype of a retail ERP system built as a portfolio project.  
 Demonstrates core workflows for a retail/distribution business.
 
